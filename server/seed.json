@@ -1,0 +1,524 @@
+{
+  "version": 1,
+  "profiles": [
+    {
+      "visibility": true,
+      "consent": true,
+      "photo": true,
+      "photoVisible": true,
+      "evidence": true,
+      "affiliation": "Confirmed",
+      "denomination": "Protestant",
+      "language": "English",
+      "managers": [],
+      "id": "CM1001",
+      "name": "Rachel Thomas",
+      "age": 28,
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "career": "UX designer",
+      "status": "Approved",
+      "route": "online",
+      "originalOrg": "B01",
+      "managedBy": [
+        "B01",
+        "C01"
+      ],
+      "portrait": 3,
+      "gender": "Female",
+      "bio": "Faith, family and meaningful work are a big part of my life. I value kindness, honest conversation and growing together.",
+      "preferences": {
+        "state": "Any state",
+        "language": "English",
+        "relocation": "Open to discussing"
+      },
+      "created": "2026-10-10"
+    },
+    {
+      "visibility": true,
+      "consent": true,
+      "photo": true,
+      "photoVisible": true,
+      "evidence": true,
+      "affiliation": "Confirmed",
+      "denomination": "Protestant",
+      "language": "English",
+      "managers": [],
+      "id": "CM1002",
+      "name": "Daniel Mathew",
+      "age": 31,
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "career": "Architect",
+      "status": "Approved",
+      "route": "online",
+      "originalOrg": null,
+      "managedBy": [],
+      "portrait": 0,
+      "gender": "Male",
+      "bio": "Faith, family and meaningful work are a big part of my life. I value kindness, honest conversation and growing together.",
+      "preferences": {
+        "state": "Any state",
+        "language": "English",
+        "relocation": "Open to discussing"
+      },
+      "created": "2026-10-10"
+    },
+    {
+      "visibility": true,
+      "consent": true,
+      "photo": true,
+      "photoVisible": true,
+      "evidence": true,
+      "affiliation": "Confirmed",
+      "denomination": "Protestant",
+      "language": "English",
+      "managers": [],
+      "id": "CM1003",
+      "name": "Joel Varghese",
+      "age": 30,
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "career": "Strategy consultant",
+      "status": "Approved",
+      "route": "church",
+      "originalOrg": "C02",
+      "managedBy": [
+        "C02"
+      ],
+      "portrait": 1,
+      "gender": "Male",
+      "bio": "Faith, family and meaningful work are a big part of my life. I value kindness, honest conversation and growing together.",
+      "preferences": {
+        "state": "Any state",
+        "language": "English",
+        "relocation": "Open to discussing"
+      },
+      "created": "2026-10-10"
+    },
+    {
+      "visibility": true,
+      "consent": true,
+      "photo": true,
+      "photoVisible": true,
+      "evidence": true,
+      "affiliation": "Confirmed",
+      "denomination": "Protestant",
+      "language": "English",
+      "managers": [],
+      "id": "CM1004",
+      "name": "Isaac George",
+      "age": 32,
+      "city": "Kochi",
+      "state": "Kerala",
+      "career": "Product manager",
+      "status": "Approved",
+      "route": "branch",
+      "originalOrg": "B02",
+      "managedBy": [
+        "B02"
+      ],
+      "portrait": 2,
+      "gender": "Male",
+      "bio": "Faith, family and meaningful work are a big part of my life. I value kindness, honest conversation and growing together.",
+      "preferences": {
+        "state": "Any state",
+        "language": "English",
+        "relocation": "Open to discussing"
+      },
+      "created": "2026-10-10"
+    },
+    {
+      "visibility": true,
+      "consent": true,
+      "photo": true,
+      "photoVisible": true,
+      "evidence": true,
+      "affiliation": "Confirmed",
+      "denomination": "Protestant",
+      "language": "English",
+      "managers": [],
+      "id": "CM1005",
+      "name": "Anna Joseph",
+      "age": 27,
+      "city": "Mysuru",
+      "state": "Karnataka",
+      "career": "Teacher",
+      "status": "Under review",
+      "route": "branch",
+      "originalOrg": "B01",
+      "managedBy": [
+        "B01"
+      ],
+      "portrait": 3,
+      "gender": "Female",
+      "bio": "Faith, family and meaningful work are a big part of my life. I value kindness, honest conversation and growing together.",
+      "preferences": {
+        "state": "Any state",
+        "language": "English",
+        "relocation": "Open to discussing"
+      },
+      "created": "2026-10-10"
+    },
+    {
+      "visibility": true,
+      "consent": false,
+      "photo": true,
+      "photoVisible": true,
+      "evidence": true,
+      "affiliation": "Confirmed",
+      "denomination": "Protestant",
+      "language": "English",
+      "managers": [],
+      "id": "CM1006",
+      "name": "Lydia Paul",
+      "age": 29,
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "career": "Doctor",
+      "status": "Awaiting consent",
+      "route": "branch",
+      "originalOrg": "B01",
+      "managedBy": [
+        "B01"
+      ],
+      "portrait": 3,
+      "gender": "Female",
+      "bio": "Faith, family and meaningful work are a big part of my life. I value kindness, honest conversation and growing together.",
+      "preferences": {
+        "state": "Any state",
+        "language": "English",
+        "relocation": "Open to discussing"
+      },
+      "created": "2026-10-10"
+    },
+    {
+      "visibility": true,
+      "consent": true,
+      "photo": true,
+      "photoVisible": true,
+      "evidence": false,
+      "affiliation": "Confirmed",
+      "denomination": "Protestant",
+      "language": "English",
+      "managers": [],
+      "id": "CM1007",
+      "name": "Mark Philip",
+      "age": 31,
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "career": "Finance analyst",
+      "status": "Changes requested",
+      "route": "branch",
+      "originalOrg": "B01",
+      "managedBy": [
+        "B01"
+      ],
+      "portrait": 0,
+      "gender": "Male",
+      "bio": "Faith, family and meaningful work are a big part of my life. I value kindness, honest conversation and growing together.",
+      "preferences": {
+        "state": "Any state",
+        "language": "English",
+        "relocation": "Open to discussing"
+      },
+      "created": "2026-10-10"
+    },
+    {
+      "visibility": true,
+      "consent": true,
+      "photo": true,
+      "photoVisible": true,
+      "evidence": true,
+      "affiliation": "Confirmed",
+      "denomination": "Protestant",
+      "language": "English",
+      "managers": [],
+      "id": "CM1008",
+      "name": "Elena James",
+      "age": 26,
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "career": "Researcher",
+      "status": "Under review",
+      "route": "church",
+      "originalOrg": "C01",
+      "managedBy": [
+        "C01"
+      ],
+      "portrait": 3,
+      "gender": "Female",
+      "bio": "Faith, family and meaningful work are a big part of my life. I value kindness, honest conversation and growing together.",
+      "preferences": {
+        "state": "Any state",
+        "language": "English",
+        "relocation": "Open to discussing"
+      },
+      "created": "2026-10-10"
+    },
+    {
+      "visibility": true,
+      "consent": false,
+      "photo": true,
+      "photoVisible": true,
+      "evidence": true,
+      "affiliation": "Confirmed",
+      "denomination": "Protestant",
+      "language": "English",
+      "managers": [],
+      "id": "CM1009",
+      "name": "Peter John",
+      "age": 30,
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "career": "Civil engineer",
+      "status": "Awaiting consent",
+      "route": "church",
+      "originalOrg": "C01",
+      "managedBy": [
+        "C01"
+      ],
+      "portrait": 1,
+      "gender": "Male",
+      "bio": "Faith, family and meaningful work are a big part of my life. I value kindness, honest conversation and growing together.",
+      "preferences": {
+        "state": "Any state",
+        "language": "English",
+        "relocation": "Open to discussing"
+      },
+      "created": "2026-10-10"
+    },
+    {
+      "visibility": true,
+      "consent": true,
+      "photo": true,
+      "photoVisible": true,
+      "evidence": true,
+      "affiliation": "Confirmed",
+      "denomination": "Protestant",
+      "language": "English",
+      "managers": [],
+      "id": "CM1010",
+      "name": "Leah David",
+      "age": 28,
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "career": "Teacher",
+      "status": "Approved",
+      "route": "church",
+      "originalOrg": "C01",
+      "managedBy": [
+        "C01"
+      ],
+      "portrait": 3,
+      "gender": "Female",
+      "bio": "Faith, family and meaningful work are a big part of my life. I value kindness, honest conversation and growing together.",
+      "preferences": {
+        "state": "Any state",
+        "language": "English",
+        "relocation": "Open to discussing"
+      },
+      "created": "2026-10-10"
+    },
+    {
+      "visibility": true,
+      "consent": true,
+      "photo": true,
+      "photoVisible": true,
+      "evidence": true,
+      "affiliation": "Confirmed",
+      "denomination": "Protestant",
+      "language": "English",
+      "managers": [],
+      "id": "CM1011",
+      "name": "Noah Daniel",
+      "age": 29,
+      "city": "Vijayawada",
+      "state": "Andhra Pradesh",
+      "career": "Software engineer",
+      "status": "Under review",
+      "route": "online",
+      "originalOrg": null,
+      "managedBy": [],
+      "portrait": 2,
+      "gender": "Male",
+      "bio": "Faith, family and meaningful work are a big part of my life. I value kindness, honest conversation and growing together.",
+      "preferences": {
+        "state": "Any state",
+        "language": "English",
+        "relocation": "Open to discussing"
+      },
+      "created": "2026-10-10"
+    },
+    {
+      "visibility": true,
+      "consent": true,
+      "photo": true,
+      "photoVisible": true,
+      "evidence": true,
+      "affiliation": "Confirmed",
+      "denomination": "Protestant",
+      "language": "English",
+      "managers": [],
+      "id": "CM1012",
+      "name": "Andrew Paul",
+      "age": 31,
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "career": "Business analyst",
+      "status": "Approved",
+      "route": "branch",
+      "originalOrg": "B01",
+      "managedBy": [
+        "B01"
+      ],
+      "portrait": 0,
+      "gender": "Male",
+      "bio": "Faith, family and meaningful work are a big part of my life. I value kindness, honest conversation and growing together.",
+      "preferences": {
+        "state": "Any state",
+        "language": "English",
+        "relocation": "Open to discussing"
+      },
+      "created": "2026-10-10"
+    }
+  ],
+  "interests": [
+    {
+      "id": "I01",
+      "from": "CM1002",
+      "to": "CM1001",
+      "status": "Pending"
+    },
+    {
+      "id": "I02",
+      "from": "CM1003",
+      "to": "CM1001",
+      "status": "Pending"
+    },
+    {
+      "id": "I03",
+      "from": "CM1001",
+      "to": "CM1004",
+      "status": "Pending"
+    }
+  ],
+  "cases": [
+    {
+      "id": "IN101",
+      "pair": [
+        "CM1001",
+        "CM1012"
+      ],
+      "stage": "Coordinator assigned",
+      "coordinator": "Pastor Samuel",
+      "coordinatorOrg": "C01",
+      "contact": {
+        "CM1001": false,
+        "CM1012": false
+      },
+      "history": [
+        "Mutual interest confirmed",
+        "Pastor Samuel assigned"
+      ]
+    }
+  ],
+  "appointments": [
+    {
+      "id": "AP01",
+      "profile": "CM1001",
+      "title": "A conversation with your coordinator",
+      "date": "2026-10-18",
+      "time": "11:00",
+      "status": "Proposed",
+      "type": "Video call"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T01",
+      "org": "B01",
+      "title": "Confirm Lydia’s profile consent",
+      "profile": "CM1006",
+      "done": false
+    },
+    {
+      "id": "T02",
+      "org": "B01",
+      "title": "Help Mark add age evidence",
+      "profile": "CM1007",
+      "done": false
+    },
+    {
+      "id": "T03",
+      "org": "C01",
+      "title": "Request Peter’s member consent",
+      "profile": "CM1009",
+      "done": false
+    },
+    {
+      "id": "T04",
+      "org": "C01",
+      "title": "Confirm Elena’s church affiliation",
+      "profile": "CM1008",
+      "done": false
+    }
+  ],
+  "organisations": [
+    {
+      "id": "B01",
+      "name": "Bengaluru branch",
+      "type": "branch",
+      "status": "Active"
+    },
+    {
+      "id": "B02",
+      "name": "Kochi branch",
+      "type": "branch",
+      "status": "Active"
+    },
+    {
+      "id": "C01",
+      "name": "Grace Fellowship",
+      "type": "church",
+      "status": "Active"
+    },
+    {
+      "id": "C02",
+      "name": "Chennai fellowship",
+      "type": "church",
+      "status": "Active"
+    }
+  ],
+  "enquiries": [],
+  "audit": [],
+  "membership": {
+    "status": "Pending",
+    "period": "Annual",
+    "start": null,
+    "end": null
+  },
+  "privacy": {
+    "photos": true,
+    "discovery": true
+  },
+  "preferences": {
+    "state": "Any state",
+    "language": "English",
+    "relocation": "Open to discussing"
+  },
+  "staff": [
+    {
+      "id": "S01",
+      "org": "B01",
+      "name": "Anna Mathew",
+      "role": "Branch coordinator"
+    },
+    {
+      "id": "S02",
+      "org": "C01",
+      "name": "Pastor Samuel",
+      "role": "Church representative"
+    }
+  ]
+}
