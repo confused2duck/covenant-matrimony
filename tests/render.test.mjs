@@ -1,0 +1,7 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+globalThis.document={body:{dataset:{page:'home'}},addEventListener(){},querySelector(){return null;}};
+globalThis.location={hash:''};globalThis.window={COVENANT_CONFIG:{backend:'mock'},__COVENANT_TEST__:true,addEventListener(){}};
+const {renderForTest,home,about,specialtyPage,loginPage}=await import('../dist/app.js');
+test('all role workspace views render without runtime exceptions',()=>{const views={member:['overview','profile','discover','interests','introductions','appointments','membership','privacy'],branch:['overview','profiles','add','reviews','introductions','tasks','staff'],church:['overview','profiles','add','confirmations','introductions','tasks','staff'],admin:['overview','reviews','profiles','organisations','partners','introductions','appointments','membership','content','reports','audit']};for(const[r,vs]of Object.entries(views))for(const v of vs){const html=renderForTest(r,v);assert.ok(html.length>100,`${r}/${v}`);assert.ok(!html.includes('undefined'),`${r}/${v} should have complete values`);assert.ok(!html.includes('NaN'),`${r}/${v}`);}});
+test('three public pages and mock login include complete structures',()=>{const h=home();assert.equal((h.match(/data-journey=/g)||[]).length,8);assert.equal((h.match(/class="state-chip"/g)||[]).length,5);assert.ok(about().includes('Your story goes further'));assert.equal((specialtyPage().match(/<article class="specialty-card"/g)||[]).length,8);assert.ok(loginPage().includes('member@covenant.demo'));});
